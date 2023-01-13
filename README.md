@@ -1,15 +1,15 @@
 ## Projects
 
-### [NationalParksRock](https://nationalparksrock.herokuapp.com/)
+### [NationalParksRock](https://github.com/cormacpujals/nationalparksrock)
 *  NationalParksRock is a full-stack, single-page application that utilizes the popular front-end library, React! I made this app because 1) I absolutely love our national parks, and 2) I wanted to make it easy to discover parks and add keep track of where you want to go!
 
-### [GetTogether](https://gettogether.herokuapp.com/)
+### [GetTogether](https://github.com/kailahk/project-3)
 * A collaborative (team of 3 developers), Full-stack CRUD app created via 'mob programming,' using technologies: Django, Python, JavaScript, HTML, CSS, and Heroku. The app allows visitors to sign up or login, view events in three different cities, create events in any of those cities, comment on past and upcoming events, and rate past events. Our team's mission was to create a community-centric app that makes finding events and putting on events simple and fun.
 
-### [Bouldering Paradise](https://boulderingparadise.herokuapp.com/)
+### [Bouldering Paradise](https://github.com/cormacpujals/bouldering)
 * A Full-stack CRUD (create, read, update, delete) web application made using Node.js, Express.js, and MongoDB, and deployed on Heroku. Bouldering Paradise is fun website designed to offer climbers a way to connect over their shared passion for bouldering. Folks can post photos, descriptions, comments, and more!
 
-### [Spaceman](https://cormacpujals.github.io/spaceman)
+### [Spaceman](https://github.com/cormacpujals/spaceman)
 * Spaceman is fun spin on the classic game of Hangman. In my version of Spaceman, the player is an astronaut in-training going through a mission simulation. In this sim, the player must find the passcode (a moon orbiting Jupiter) to activate an emergency protocol that will save their fellow astronaut before they run out of oxygen.
 
 ## Skills
